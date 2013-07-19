@@ -1,0 +1,17 @@
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\ApplicationIcon.png
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\Background.png
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\CordovaWP7_2_9_02.dll
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\CordovaWP7_2_9_02.pdb
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\AppManifest.xaml
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\Bin\Debug\CordovaWP7_2_9_02.xap
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\App.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\MainPage.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\cordovalib\CordovaView.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\AudioRecorder.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\ImageCapture.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\NotificationBox.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\Plugins\UI\VideoRecorder.g.i.cs
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\CordovaWP7_2_9_02.g.resources
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\CordovaWP7_2_9_02.dll
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\CordovaWP7_2_9_02.pdb
+d:\maykon\documents\visual studio 2010\Projects\CordovaWP7_2_9_02\CordovaWP7_2_9_02\obj\Debug\XapCacheFile.xml

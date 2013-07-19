@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="app">
+            <h1>Ponto Mobile</h1>
+            <div id="deviceready" class="blink">
+               <input id="cpf" type="text" /><br/>
+               <input id="senha" type="text" /><br/>
+                <input id="LoginButton" type="button" value="Login" onclick="LoginButton_onclick()"/>
+            </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript">
+            app.initialize();
+
+            function LoginButton_onclick() {
+
+                var cpf = document.getElementById('cpf').value;
+                var senha = document.getElementById('senha').value;
+
+                $.support.cors = true;
+                $.ajax({
+                    type: "GET",
+                    url: "http://localhost:52970/WebService/ServicoMobile.svc/User/Login/?cpf=" + cpf + "&senha=" + senha,
+                    dataType: "json",
+                    cache: false,
+                    async: false,
+                    error: function (request, error) {
+                        console.log('Ajax Error: ' + error);
+                    },
+                    success: function (data, status, req) {
+                        document.write(data.WS_LoginResult);
+                    }
+                });
+            }
+        </script>
+    </body>
+</html>
